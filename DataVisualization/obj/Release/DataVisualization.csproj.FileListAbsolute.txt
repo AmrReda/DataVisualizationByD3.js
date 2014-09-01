@@ -1,0 +1,6 @@
+C:\Users\Amr\Documents\Visual Studio 2013\Projects\DataVisualization\DataVisualization\bin\DataVisualization.dll.config
+C:\Users\Amr\Documents\Visual Studio 2013\Projects\DataVisualization\DataVisualization\bin\DataVisualization.dll
+C:\Users\Amr\Documents\Visual Studio 2013\Projects\DataVisualization\DataVisualization\bin\DataVisualization.pdb
+C:\Users\Amr\Documents\Visual Studio 2013\Projects\DataVisualization\DataVisualization\obj\Release\DataVisualization.dll
+C:\Users\Amr\Documents\Visual Studio 2013\Projects\DataVisualization\DataVisualization\obj\Release\DataVisualization.pdb
+C:\Users\Amr\Documents\Visual Studio 2013\Projects\DataVisualization\DataVisualization\obj\Release\DataVisualization.csprojResolveAssemblyReference.cache
